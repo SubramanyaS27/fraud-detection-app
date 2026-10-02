@@ -45,4 +45,5 @@ streamlit run app.py
 👨‍💻 Author
 Subramanya S
 GitHub: https://github.com/SubramanyaS27
-Live App: https://fraud-detection-app-mt95.onrender.comBuilt as complete end-to-end ML project from data to deployment.
+Live App: https://fraud-detection-app-mt95.onrender.com
+Built as complete end-to-end ML project from data to deployment.
